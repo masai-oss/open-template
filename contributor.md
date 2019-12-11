@@ -1,4 +1,4 @@
-Contributing to Masai School
+# Contributing to Masai School
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
@@ -8,9 +8,9 @@ We love your input! We want to make contributing to this project as easy and tra
 - Proposing new features
 - Becoming a maintainer
 
-Contributing for the first time? We got you covered visit this link for the First Time Guidelines.
+Contributing for the first time? We got you covered, visit this [link](https://github.com/Warewolf96/open-template/blob/master/first_contributor.md) for the First Time Guidelines.
 
-We Develop with Github
+## We Develop with Github
 Pull requests are the best way to propose changes to the codebase (we use Github Flow). We actively welcome your pull requests:
 
 - Fork the repo and create your branch from master.
@@ -20,13 +20,13 @@ Pull requests are the best way to propose changes to the codebase (we use Github
 - Make sure your code lints.
 - Issue that pull request!
 
-Report bugs using Github's issues
+## Report bugs using Github's issues
 We use GitHub issues to track public bugs. Report a bug by opening a new issue; it's that easy!
 
 Write bug reports with detail, background, and sample code
 Here's a good example from Craig Hockenberry with detailed bug report (http://www.openradar.me/11905408)
 
-Great Bug Reports tend to have:
+### Great Bug Reports tend to have:
 
 - A quick summary and/or background
 - Steps to reproduce
@@ -37,5 +37,5 @@ Great Bug Reports tend to have:
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
 - People love thorough bug reports. I'm not even kidding.
 
-Use a Consistent Coding Style
-We use Pep8 for Python and Google JavaScript Style Guide for JS. See the coding guidlines Page for more details.
+## Use a Consistent Coding Style
+We use Pep8 for Python and Google JavaScript Style Guide for JS. Visit this [link](https://github.com/Warewolf96/open-template/blob/master/first_contributor.md) for coding guidlines on our projects.

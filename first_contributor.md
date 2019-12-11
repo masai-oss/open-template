@@ -1,12 +1,12 @@
-First time Contributor guidelines
+# First time Contributor guidelines
 
-What do I need to know to help?
+## What do I need to know to help?
 If you are looking to help to with a code contribution our project uses [insert list of programming languages, frameworks, or tools that our project uses]. If you don't feel ready to make a code contribution yet, no problem! You can also check out the documentation issues [link to the docs label or tag on our issue tracker] or the design issues that we have [link to design label or tag on issue tracker if our project tracks design issues].
 
 If you are interested in making a code contribution and would like to learn more about the technologies that we use, check out the list below.
-list of technologies used in the project
+(list of technologies used in the project)
 
-How do I make a contribution?
+## How do I make a contribution?
 Never made an open source contribution before? Wondering how contributions work in the in our project? Here's a quick rundown!
 
 - Find an issue that you are interested in addressing or a feature that you would like to add.
@@ -24,8 +24,8 @@ Never made an open source contribution before? Wondering how contributions work 
 - Make changes to the pull request if the reviewing maintainer recommends them.
 - Celebrate your success after your pull request is merged!
 
-Where can I go for help?
+## Where can I go for help?
 - If you need help, you can ask questions on our mailing list or slack.
 
-What does the Code of Conduct mean for me?
+## What does the Code of Conduct mean for me?
 Our Code of Conduct means that you are responsible for treating everyone on the project with respect and courtesy regardless of their identity. If you are the victim of any inappropriate behavior or comments as described in our Code of Conduct, we are here for you and will do the best to ensure that the abuser is reprimanded appropriately, per our code.
