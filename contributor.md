@@ -8,7 +8,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - Proposing new features
 - Becoming a maintainer
 
-Contributing for the first time? We got you covered, visit this [link](https://github.com/Warewolf96/open-template/blob/master/first_contributor.md) for the First Time Guidelines.
+Contributing for the first time? We got you covered, visit this [link](https://github.com/masai-oss/open-template/blob/master/FIRST_CONTRIBUTOR.md) for the First Time Guidelines.
 
 ## We Develop with Github
 Pull requests are the best way to propose changes to the codebase (we use Github Flow). We actively welcome your pull requests:
@@ -38,4 +38,4 @@ Here's a good example from Craig Hockenberry with detailed bug report (http://ww
 - People love thorough bug reports. I'm not even kidding.
 
 ## Use a Consistent Coding Style
-We use Pep8 for Python and Google JavaScript Style Guide for JS. Visit this [link](https://github.com/Warewolf96/open-template/blob/master/first_contributor.md) for coding guidlines on our projects.
+We use Pep8 for Python and Google JavaScript Style Guide for JS. Visit this [link](https://github.com/masai-oss/open-template/blob/master/CODE_GUIDE.md) for coding guidlines on our projects.
