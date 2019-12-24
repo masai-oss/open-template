@@ -4,20 +4,18 @@
 
 **Example 1 of a good commit:**
 
-setup.py: Change point' entrypoint
+setup.py: Modify feature setup
 
-This entrypoint ensures that branch discovers
-the point correctly.
-It helps not writing more functions inside
-``lib`` for this.
+This modification ensures that branch discovers
+the new feature setup correctly.
 
-Closes https://github.com/[ISSUE URL]
+Closes https://github.com/[ISSUE-URL]
 
-* setup.py: Change point’ entrypoint: Describe the change in
+* setup.py: Modify feature setup: Describe the change in
 maximum of 50 characters.
-* This entrypoint.. ..for this: Describe the reasoning of your changes
+* This modification.. ..correctly: Describe the reasoning of your changes
 in maximum of 72 characters per line.
-* Closes https://github.com/[ISSUE URL]: Mention the URL
+* Closes https://github.com/[ISSUE-URL]: Mention the URL
 of the issue it closes or fixes.
 
 **Example 2 of a good commit:**
@@ -27,14 +25,14 @@ configure.py: Fix docstring typo
 This fixes the typo and changes
 it from wether --> whether.
 
-Fixes https://github.com/[ISSUE URL]
+Fixes https://github.com/[ISSUE-URL]
 
 
 * configure.py: Fix docstring typo: Describe the change in
 maximum of 50 characters.
 * This fixes.. ..whether.: Describe the reasoning of your changes
 in maximum of 72 characters per line.
-* Closes https://github.com/[ISSUE URL]: Mention the URL
+* Closes https://github.com/[ISSUE-URL]: Mention the URL
 of the issue it closes or fixes.
 
 
@@ -65,13 +63,13 @@ setup.py: Change point' entrypoint
 This entrypoint ensures that branch discovers the point correctly.
 It helps not writing more functions inside ``lib`` for this.
 
-Closes https://github.com/[ISSUE URL]
+Closes https://github.com/[ISSUE-URL]
 
 ### 1. Shortlog
 
 **Example:**
 
-setup.py: Change point' entrypoint
+setup.py: Modify feature setup
 
 * Maximum of 50 characters.
 * Keeping subject lines at this length ensures that they are readable, and explains the change in a concise way.
@@ -93,8 +91,7 @@ setup.py: Change point' entrypoint
 
 **Example:**
 
-**This entrypoint ensures that branch discovers the point correctly.**
-**It helps not writing more functions inside ``lib`` for this.**
+**This modification ensures that branch discovers the new feature setup correctly.**
 
 
 * Maximum of 72 chars excluding newline for each line.
@@ -113,7 +110,7 @@ The bot will complain if the 50/72 rule is not followed.
 
 **Example:**
 
-**Fixes https://github.com/[ISSUE URL]**
+**Fixes https://github.com/[ISSUE-URL]**
 
 * Should use the Fixes keyword if your commit fixes a bug, or Closes if it adds a feature/enhancement.
 * In some situations, e.g. bugs overcome in documents, the difference between Fixes and Closes may be very small and subjective. If a specific issue may lead to an unintended behaviour from the user or from the program it should be considered a bug, and should be addresed with Fixes. If an issue is labelled with type/bug you should always use Fixes. For all other issues use Closes.
@@ -130,14 +127,14 @@ https://wiki.gnome.org/Git/CommitMessages
 
 **Example 1 (fixed bug):**
 
-setup: Install .coafile via package_data
+setup: Install .precommit via package_data
 
-When installing the .coafile to distutils.sysconfig.get_python_lib, we
+When installing the .precommit to distutils.sysconfig.get_python_lib, we
 ignore that this is not the installation directory in every case. Thus
 it is easier, more reliable and platform independent to let distutils
 install it by itself.
 
-Fixes https://github.com/[ISSUE URL]
+Fixes https://github.com/[ISSUE-URL]
 
 
 **Example 2 (implemented feature):**
@@ -146,7 +143,7 @@ Linter: Output command on debug
 
 This massively helps debugging linters.
 
-Closes https://github.com/[ISSUE URL]
+Closes https://github.com/[ISSUE-URL]
 
 
 **Example 3 (fixed typo):**
@@ -155,7 +152,7 @@ ConsoleInteraction.print_result: Fix docstring typo
 
 wether --> whether.
 
-Closes https://github.com/[ISSUE URL]
+Closes https://github.com/[ISSUE-URL]
 
 
 ## Editing Commit Messages
