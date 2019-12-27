@@ -6,9 +6,9 @@ Schema for headers,
 
 ```
 {
-    'Content-Type': 'application/json; charset=utf-8',
-    'Access-Control-Allow-Origin': '*',
-    'Authorization': 'Bearer <token>',
+    "Content-Type": "application/json; charset=utf-8",
+    "Access-Control-Allow-Origin": "*",
+    "Authorization": "Bearer <token>",
     ...
 }
 ```
@@ -21,8 +21,8 @@ It contains the details sent from frontend to backend for response data. Request
 
 ```
 {
-    'action': 'get_all_users',
-    'tzo': 330,
+    "action": "get_all_users",
+    "tzo": 330,
     ...
 }
 ```
@@ -34,10 +34,10 @@ It contains the details sent from backend to frontend. Response body should be i
 
 ```
 {
-    'comment': 'Login Successful',
-    'data': {
-        'name': 'John',
-        'age' : 23
+    "comment": "Login Successful",
+    "data": {
+        "name": "John",
+        "age" : 23
     },
     ...
 }
